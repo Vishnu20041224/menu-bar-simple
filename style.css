@@ -98,8 +98,9 @@ i{
 }
 
 .menu-bar{
-    height: 100px;
+    height: 30px;
     width: 100%;
+   
 }
 .menu-item{
     display: flex;
@@ -109,6 +110,7 @@ i{
     gap: 30px;
     width: 40%;
     background-color: transparent;
+   
    
 }
 
